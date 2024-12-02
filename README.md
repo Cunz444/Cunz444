@@ -1,4 +1,4 @@
-## REUZSC
+## Cunz444-botzv1
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
+> git clone https://github.com/Cunz444/Cunz444
 > cd reuzsc
 > bash install.sh
 > node index.js
